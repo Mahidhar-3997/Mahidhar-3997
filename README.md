@@ -26,10 +26,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahiYourUsernameHere&show_icons=true&theme=tokyonight" alt="Mahi's GitHub stats" />
-</p>
 
 ---
 
