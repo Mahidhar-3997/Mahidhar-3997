@@ -49,7 +49,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Mahidhar-3997&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Mahidhar-3997&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0)" alt="GitHub Stats" height="165"/>
+  <!-- <img src="[https://github-readme-stats.vercel.app/api?username=Mahidhar-3997&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=Mahidhar-3997&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=0)" alt="GitHub Stats" height="165"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahidhar-3997&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
