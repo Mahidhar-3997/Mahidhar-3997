@@ -23,21 +23,20 @@
 
 ### 🛠️ Java Full Stack Skills
 
-**Core Language**
-<table align="center" border="0">
-<tr>
-<td align="center" width="140"><b>Core Language</b><br><br><img src="https://skillicons.dev/icons?i=java" height="55"/></td>
-<td align="center" width="140"><b>Backend</b><br><br><img src="https://skillicons.dev/icons?i=spring,mysql" height="55"/></td>
-<td align="center" width="140"><b>Frontend</b><br><br><img src="https://skillicons.dev/icons?i=html,css,js" height="55"/></td>
-</tr>
-<tr>
-<td align="center" width="140"><b>Version Control</b><br><br><img src="https://skillicons.dev/icons?i=git,github" height="55"/></td>
-<td align="center" width="140" colspan="2"><b>AI-Assisted Development</b><br><br><img src="https://skillicons.dev/icons?i=cursor" height="55"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="30"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kiro-6E56CF?style=for-the-badge" height="30"/>
-</td>
-</tr>
-</table>
+**Core Languages**
+### 🛠️ Java Full Stack Skills
+
+**Core Language:** &nbsp; <img src="https://skillicons.dev/icons?i=java" height="45"/>
+
+**Backend:** &nbsp; <img src="https://skillicons.dev/icons?i=spring,mysql" height="45"/>
+
+**Frontend:** &nbsp; <img src="https://skillicons.dev/icons?i=html,css,js" height="45"/>
+
+**Version Control:** &nbsp; <img src="https://skillicons.dev/icons?i=git,github" height="45"/>
+
+**AI-Assisted Development:** &nbsp; <img src="https://skillicons.dev/icons?i=cursor" height="45"/> &nbsp;
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-6E56CF?style=for-the-badge)
 
 ---
 
