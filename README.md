@@ -1,48 +1,81 @@
-<h1 align="center">Hi 👋, I'm Mahi</h1>
-<h3 align="center">A passionate CSE student exploring the world of AI, Web Development, and Software Engineering</h3>
+<h1 align="center">Hi 👋, I'm Mahidhar</h1>
+<h3 align="center">Java Full Stack Developer (Trainee) | Building with Java, Spring Boot & AI Tools</h3>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=3C3489&center=true&vCenter=true&width=600&lines=Java+Full+Stack+Developer+(Trainee);Aspiring+Software+Developer;Learning+at+JSpiders+-+Java+Full+Stack+%2B+AI;Open+to+Software+Engineer+Trainee+Roles" alt="Typing SVG" />
+</p>
 
-### 🧑‍💻 About Me
-- 🎓 I'm a 3rd-year CSE student passionate about AI and Machine Learning  
-- 💡 Currently learning and building projects using **Node.js, Express.js, Python, Java**
-- 🚀 I plan to showcase projects related to **disease detection**, **bioplastics**, **ride-booking apps**, and more here soon!
-- 🛠️ Open to collaborations and research opportunities!
-
----
-
-### 💻 Skills & Tech Stack
-#### 👨‍💻 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-#### 🌐 Web & Backend
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
----
-
-
----
-
-### 📫 Connect With Me
-<p align="left">
-  <a href="mailto:mahidharmaddasani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mahidhar-maddasani-9b5088356/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=120&section=header" />
 </p>
 
 ---
 
-### 🌱 Upcoming Projects
-- `🔬 MCQ Generator using ML`
-- `🌍 QuickRyder Flutter App`
-- `🧪 Disease Prediction with ML`
-- `simon game
+### 🧑‍💻 About Me
+
+- 🎓 Currently training in **Java Full Stack Development with AI** at **JSpiders**
+- 💻 Focused on building strong fundamentals in **Java, Spring Boot, SQL, and Web Development**
+- 🤖 Exploring how AI-assisted tools like **Cursor, Claude, and Kiro** speed up and improve real-world development
+- 🎯 Goal: to grow into a confident **Software Developer**, writing clean, reliable code and contributing to real teams
+- 📈 Actively building projects to apply what I learn, one module at a time
 
 ---
 
-> _“Code is like humor. When you have to explain it, it’s bad.”_ – Cory House
+### 🛠️ Java Full Stack Skills
+
+**Core Language**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Backend**
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Tools & Version Control**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**AI-Assisted Development**
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Kiro](https://img.shields.io/badge/Kiro-6E56CF?style=for-the-badge)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username so the stats cards pull your real data.
+
+---
+
+### 🚀 Projects
+
+> Add your JSpiders course projects and personal builds here as you complete them — even small projects (a CRUD app, a login system with Spring Boot, a SQL-based inventory tracker) show recruiters real, applied skill.
+
+- 🔹 `Project Name` — one-line description of what it does and what you used (e.g., Java, Spring Boot, MySQL)
+- 🔹 `Project Name` — one-line description
+- 🔹 `Project Name` — one-line description
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="mailto:mahidharmaddasani@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mahidhar-maddasani-9b5088356/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=3C3489&height=100&section=footer" />
+</p>
