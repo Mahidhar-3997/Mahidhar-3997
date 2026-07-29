@@ -53,19 +53,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahidhar-3997&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
-> Replace `YOUR_GITHUB_USERNAME` above with your actual GitHub username so the stats cards pull your real data.
-
----
-
-### 🚀 Projects
-
-> Add your JSpiders course projects and personal builds here as you complete them — even small projects (a CRUD app, a login system with Spring Boot, a SQL-based inventory tracker) show recruiters real, applied skill.
-
-- 🔹 `Project Name` — one-line description of what it does and what you used (e.g., Java, Spring Boot, MySQL)
-- 🔹 `Project Name` — one-line description
-- 🔹 `Project Name` — one-line description
-
----
 
 ### 📫 Connect With Me
 
