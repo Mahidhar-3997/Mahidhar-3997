@@ -25,6 +25,7 @@
 
 **Core Languages**
 ### 🛠️ Java Full Stack Skills
+### 🛠️ Java Full Stack Skills
 <p align="center">
   <img src="https://raw.githubusercontent.com/Mahidhar-3997/Mahidhar-3997/main/skills.svg" width="100%"/>
 </p>
