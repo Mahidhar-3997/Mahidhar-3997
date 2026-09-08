@@ -24,20 +24,10 @@
 ### 🛠️ Java Full Stack Skills
 
 **Core Languages**
-<table align="center" border="0">
-<tr>
-<td align="center" width="140"><b>Core Language</b><br><br><img src="https://skillicons.dev/icons?i=java" height="55"/></td>
-<td align="center" width="140"><b>Backend</b><br><br><img src="https://skillicons.dev/icons?i=spring,mysql" height="55"/></td>
-<td align="center" width="140"><b>Frontend</b><br><br><img src="https://skillicons.dev/icons?i=html,css,js" height="55"/></td>
-</tr>
-<tr>
-<td align="center" width="140"><b>Version Control</b><br><br><img src="https://skillicons.dev/icons?i=git,github" height="55"/></td>
-<td align="center" width="140" colspan="2"><b>AI-Assisted Development</b><br><br><img src="https://skillicons.dev/icons?i=cursor" height="55"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="30"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Kiro-6E56CF?style=for-the-badge" height="30"/>
-</td>
-</tr>
-</table>
+### 🛠️ Java Full Stack Skills
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mahidhar-3997/Mahidhar-3997/main/skills.svg" width="100%"/>
+</p>
 
 ---
 
