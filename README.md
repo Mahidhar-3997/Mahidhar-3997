@@ -21,9 +21,6 @@
 
 ---
 
-### 🛠️ Java Full Stack Skills
-
-**Core Languages**
 ### 🛠️ Java Full Stack & AI Tech Stack
 
 <p align="center">
